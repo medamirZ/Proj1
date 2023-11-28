@@ -1,0 +1,4 @@
+
+# median sale     14.95     Lightning Charging Cable
+# max sale        1700.0    Macbook Pro Laptop
+# min sale        2.99  AAA Batteries (4-pack)
